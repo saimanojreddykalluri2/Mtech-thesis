@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=saimanojreddykalluri2
-              -Dsonar.projectKey=saimanojreddykalluri2
+              -Dsonar.projectKey=Mtech-thesis
               -Dsonar.python.coverage.reportPaths=coverage.xml
